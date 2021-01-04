@@ -1,0 +1,1 @@
+This is just a funny test with Simpsons API to test a simple AJAX request :)
